@@ -20,7 +20,8 @@ Tools required: Terraform, AWS account with security credentials, Keypair
  
 
 Expected Deliverables:
-      Launch an EC2 instance using Terraform
+     
+     Launch an EC2 instance using Terraform
 
       Connect to the instance
 
